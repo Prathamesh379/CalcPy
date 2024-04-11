@@ -4,8 +4,6 @@ This My First Github Repository
 Author - Prathamesh Deshmukh
 Explanation for code : -
 <br>
-Sure, let's break down the code:
-
 1. `lines` function: This function simply prints a line of dashes, the length of which is determined by the `some_number` parameter passed to it.
 
 2. The code asks the user for two numbers, `num1` and `num2`, and then displays a line of dashes.
